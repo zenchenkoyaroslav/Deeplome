@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Deeplome</string>
+    <string name="title_paired_devices">Сопряжённые устройства</string>
+    <string name="title_other_devices">Другие доступные устройства</string>
+    <string name="button_scan">Поиск устройств</string>
+    <string name="none_paired">Нет сопряжённых устройств</string>
+    <string name="scanning">Поиск устройств...</string>
+    <string name="select_device">Выберите устройства для соединения</string>
+    <string name="connecting">Подключние</string>
+    <string name="none_found">Устройства не найдены</string>
+</resources>
